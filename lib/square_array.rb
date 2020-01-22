@@ -1,7 +1,7 @@
 def square_array(array)
   i = 0
   while i < array.length do 
-    puts Math.sqrt(i)
+    puts array(i) = array(i) ** 2
     i += 1
     
   end
